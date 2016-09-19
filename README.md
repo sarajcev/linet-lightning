@@ -6,4 +6,4 @@ P. Sarajcev, J. Vaslji, D. Jakus: "Monte–Carlo analysis of wind farm lightning
 
 http://www.sciencedirect.com/science/article/pii/S0960148116306085
 
-The Jupyter Notebook can be seen rendered on nbviewer [here](https://github.com/sarajcev/linet-lightning/blob/master/lightning.ipynb)
+The Jupyter Notebook can be seen rendered on nbviewer [here](https://nbviewer.jupyter.org/github/sarajcev/linet-lightning/blob/master/lightning.ipynb)
